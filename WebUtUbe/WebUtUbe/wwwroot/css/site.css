@@ -18,5 +18,17 @@ body {
   background-color: burlywood;
 }
 
+#myContainer {
+    width: 250px;
+    height: 250px;
+    position: relative;
+    background: blue;
+}
 
+#myAnimation {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: black;
+}
 
